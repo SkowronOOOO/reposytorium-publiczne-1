@@ -1,2 +1,2 @@
-# reposytorium-publiczne-1
+# reposytorium-publiczne-1.io
 Jest to moje pierwsze reposytorium
